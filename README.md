@@ -6,7 +6,7 @@ Artificial neural networoking:
 
 ANN ARCHITECTURE:
 
-![alt text](https://github.com/AnanyaBathini/Casestudy-1/assets/143894181/ebd8d280-6a45-48c7-b646-62921e40ca58)
+
 
 
 
